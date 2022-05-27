@@ -51,13 +51,13 @@
 
 运行截图如下：
 
-![](index4.png)
+![4](img/index4.png)
 
-![](index5.png)
+![5](img/index5.png)
 
-![](login.png)![3](preview4.png)<![3](register1.png)
+![6](img/login.png)![7](img/preview4.png)<![8](img/register1.png)
 
-![](study3.png)
+![9](img/study3.png)
 
 
 
