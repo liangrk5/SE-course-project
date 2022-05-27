@@ -12,7 +12,7 @@
 
 ### 2.1 流程图
 
-![image-20220527104041480](C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527104041480.png)
+![image-20220527104041480](img/背单词流程图.png)
 
 
 
@@ -51,13 +51,13 @@
 
 运行截图如下：
 
-<img src="C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527104848139.png" alt="image-20220527104848139" />
+![3](index4.png)
 
-![image-20220527104914268](C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527104914268.png)
+![3](index5.png)
 
-<img src="C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527104935907.png" alt="image-20220527104935907" style="zoom:33%;" /><img src="C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527105002576.png" alt="image-20220527105002576" style="zoom:50%;" /><img src="C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527105119054.png" alt="image-20220527105119054" style="zoom:50%;" />
+![3](login.png)![3](preview4.png)<![3](register1.png)
 
-![image-20220527105232625](C:\Users\John Liu\AppData\Roaming\Typora\typora-user-images\image-20220527105232625.png)
+![3](study3.png)
 
 
 
